@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Identify the Pattern",
+        "text": "What comes next in the sequence? 🔵 🟢 🔵 🟢 __",
+        "inputType": "text",
+        "correctAnswer": "🔵"
+    },
+    {
+        "title": "Arrange in Order",
+        "text": "Sort the numbers in ascending order: 8, 3, 5, 2",
+        "inputType": "text",
+        "correctAnswer": "2, 3, 5, 8"
+    },
+    {
+        "title": "Find the Missing Shape",
+        "text": "🔺 🔷 🔺 🔷 __",
+        "inputType": "text",
+        "correctAnswer": "🔺"
+    },
+    {
+        "title": "Which Shape is Different?",
+        "text": "🟥 🟥 🟦 🟥",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "🟥", "isCorrect": false },
+            { "value": "🟦", "isCorrect": true }
+        ]
+    }
+]
