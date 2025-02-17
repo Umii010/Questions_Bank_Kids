@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Basic Shapes",
+    "text": "What is the name of a shape with 4 equal sides?",
+    "inputType": "buttons",
+    "options": [
+      { "value": "Square", "isCorrect": true },
+      { "value": "Rectangle", "isCorrect": false },
+      { "value": "Triangle", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Identifying a Circle",
+    "text": "What shape has no corners and is perfectly round?",
+    "inputType": "buttons",
+    "options": [
+      { "value": "Circle", "isCorrect": true },
+      { "value": "Square", "isCorrect": false },
+      { "value": "Rectangle", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Perimeter of a Rectangle",
+    "text": "A rectangle has a length of 8 units and a width of 5 units. What is its perimeter?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "26"
+  },
+  {
+    "title": "Area of a Square",
+    "text": "What is the area of a square with sides of 6 units?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "36"
+  },
+  {
+    "title": "Triangle Angles",
+    "text": "The sum of the angles in a triangle is always 180 degrees. If two angles are 60 and 50 degrees, what is the third angle?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "70"
+  },
+  {
+    "title": "Circle Radius",
+    "text": "What is the radius of a circle with a diameter of 10 units?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "5"
+  },
+  {
+    "title": "Identifying Shapes",
+    "text": "Which of the following is a 3D shape?",
+    "inputType": "checkbox",
+    "options": [
+      { "value": "Cube", "isCorrect": true },
+      { "value": "Circle", "isCorrect": false },
+      { "value": "Square", "isCorrect": false }
+    ]
+  }
+]
