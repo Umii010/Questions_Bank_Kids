@@ -43,13 +43,14 @@
       { "value": "0, 1, 2, 3, 4", "isCorrect": false }
     ]
   },
-  {
-    "title": "Problem-Solving",
-    "text": "Umer has 3 balloons. Her friend gives her 2 more. How many does she have now?",
-    "options": [
-      { "value": "5", "isCorrect": true },
-      { "value": "4", "isCorrect": false },
-      { "value": "6", "isCorrect": false }
-    ]
-  }
+ {
+  "title": "Problem-Solving",
+  "text": "Umer has 3 balloons. Her friend gives her 2 more. How many does she have now?",
+  "options": [
+    { "value": "5", "isCorrect": true, "type": "checkbox" },
+    { "value": "4", "isCorrect": false, "type": "checkbox" },
+    { "value": "6", "isCorrect": false, "type": "checkbox" }
+  ]
+}
+
 ]
