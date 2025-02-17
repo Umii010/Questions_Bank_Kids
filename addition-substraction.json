@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Addition of Numbers",
+    "text": "What is 3 + 2?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "5"
+  },
+  {
+    "title": "Subtraction of Numbers",
+    "text": "What is 7 - 4?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "3"
+  },
+  {
+    "title": "Multiple-Choice Addition",
+    "text": "What is 6 + 5?",
+    "inputType": "button",
+    "options": [
+      {
+        "value": "10",
+        "isCorrect": false
+      },
+      {
+        "value": "11",
+        "isCorrect": true
+      },
+      {
+        "value": "12",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "Multiple-Choice Subtraction",
+    "text": "What is 9 - 3?",
+    "inputType": "button",
+    "options": [
+      {
+        "value": "6",
+        "isCorrect": true
+      },
+      {
+        "value": "5",
+        "isCorrect": false
+      },
+      {
+        "value": "4",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "Addition and Subtraction in Sequence",
+    "text": "What is 4 + 3 - 2?",
+    "inputType": "button",
+    "options": [
+      {
+        "value": "5",
+        "isCorrect": false
+      },
+      {
+        "value": "6",
+        "isCorrect": true
+      },
+      {
+        "value": "7",
+        "isCorrect": false
+      }
+    ]
+  }
+]
