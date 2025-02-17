@@ -39,23 +39,20 @@
     "text": "Which set is in the correct order?",
     "options": [
       { "value": "4, 1, 0, 2, 3", "isCorrect": true },
-      { "value": "2, 4, 1, 3, 0 ", "isCorrect": false },
+      { "value": "2, 4, 1, 3, 0", "isCorrect": false },
       { "value": "0, 1, 2, 3, 4", "isCorrect": false }
     ]
   },
-{
-  "title": "Problem-Solving",
-  "text": "Umer has 3 balloons. Her friend gives her 2 more. How many does she have now?",
-  "options": [
-    { "value": "5", "isCorrect": true, "type": "checkbox" },
-    { "value": "4", "isCorrect": false, "type": "checkbox" },
-    { "value": "6", "isCorrect": false, "type": "checkbox" }
-  ],
-  "inputType": "checkbox"
-}
-
-
-
+  {
+    "title": "Problem-Solving",
+    "text": "Umer has 3 balloons. Her friend gives her 2 more. How many does she have now?",
+    "options": [
+      { "value": "5", "isCorrect": true, "type": "checkbox" },
+      { "value": "4", "isCorrect": false, "type": "checkbox" },
+      { "value": "6", "isCorrect": false, "type": "checkbox" }
+    ],
+    "inputType": "checkbox"
+  },
   {
     "title": "Addition of Numbers",
     "text": "What is 3 + 2?",
@@ -75,18 +72,9 @@
     "text": "What is 6 + 5?",
     "inputType": "button",
     "options": [
-      {
-        "value": "10",
-        "isCorrect": false
-      },
-      {
-        "value": "11",
-        "isCorrect": true
-      },
-      {
-        "value": "12",
-        "isCorrect": false
-      }
+      { "value": "10", "isCorrect": false },
+      { "value": "11", "isCorrect": true },
+      { "value": "12", "isCorrect": false }
     ]
   },
   {
@@ -94,18 +82,9 @@
     "text": "What is 9 - 3?",
     "inputType": "button",
     "options": [
-      {
-        "value": "6",
-        "isCorrect": true
-      },
-      {
-        "value": "5",
-        "isCorrect": false
-      },
-      {
-        "value": "4",
-        "isCorrect": false
-      }
+      { "value": "6", "isCorrect": true },
+      { "value": "5", "isCorrect": false },
+      { "value": "4", "isCorrect": false }
     ]
   },
   {
@@ -113,18 +92,9 @@
     "text": "What is 4 + 3 - 2?",
     "inputType": "button",
     "options": [
-      {
-        "value": "5",
-        "isCorrect": false
-      },
-      {
-        "value": "6",
-        "isCorrect": true
-      },
-      {
-        "value": "7",
-        "isCorrect": false
-      }
+      { "value": "5", "isCorrect": false },
+      { "value": "6", "isCorrect": true },
+      { "value": "7", "isCorrect": false }
     ]
   }
 ]
