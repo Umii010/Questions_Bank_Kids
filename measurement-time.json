@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Length Conversion",
+    "text": "How many centimeters are in 5 meters?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "500"
+  },
+  {
+    "title": "Time Conversion",
+    "text": "How many seconds are in 2 minutes?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "120"
+  },
+  {
+    "title": "Weight Conversion",
+    "text": "How many grams are in 2 kilograms?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "2000"
+  },
+  {
+    "title": "Identifying Time on a Clock",
+    "text": "What time is shown on the clock? (Assume the clock shows 3:00)",
+    "inputType": "buttons",
+    "options": [
+      { "value": "3:00", "isCorrect": true },
+      { "value": "2:30", "isCorrect": false },
+      { "value": "4:00", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Adding Time",
+    "text": "If it is 5:30 PM now, what time will it be in 3 hours?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "8:30 PM"
+  },
+  {
+    "title": "Time in a Day",
+    "text": "How many hours are in one day?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "24"
+  },
+  {
+    "title": "Length Measurement Units",
+    "text": "Which of the following is the smallest unit of length?",
+    "inputType": "buttons",
+    "options": [
+      { "value": "Millimeter", "isCorrect": true },
+      { "value": "Centimeter", "isCorrect": false },
+      { "value": "Meter", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Elapsed Time",
+    "text": "If you start a task at 2:00 PM and finish at 4:15 PM, how much time has passed?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "2 hours 15 minutes"
+  },
+  {
+    "title": "Comparing Times",
+    "text": "Which of the following times is later?",
+    "inputType": "buttons",
+    "options": [
+      { "value": "5:00 PM", "isCorrect": true },
+      { "value": "2:00 PM", "isCorrect": false },
+      { "value": "1:00 PM", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Speed Calculation",
+    "text": "If a car travels 100 kilometers in 2 hours, what is its average speed?",
+    "inputType": "text",
+    "options": [],
+    "correctAnswer": "50 km/h"
+  }
+]
