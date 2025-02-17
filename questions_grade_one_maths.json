@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Counting Objects",
+    "text": "How many apples are in the picture? 🍎🍎🍎🍎🍎",
+    "options": [
+      { "value": "5", "isCorrect": true },
+      { "value": "4", "isCorrect": false },
+      { "value": "6", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Missing Number",
+    "text": "What comes after 7?",
+    "options": [
+      { "value": "8", "isCorrect": true },
+      { "value": "9", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Matching Numbers",
+    "text": "Match the numbers with words:",
+    "options": [
+      { "number": 3, "word": "Three" },
+      { "number": 5, "word": "Five" },
+      { "number": 8, "word": "Eight" }
+    ]
+  },
+  {
+    "title": "Comparing Numbers",
+    "text": "Which number is bigger?",
+    "options": [
+      { "value": "6", "isCorrect": false },
+      { "value": "9", "isCorrect": true },
+      { "value": "2", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Ordering Numbers",
+    "text": "Which set is in the correct order?",
+    "options": [
+      { "value": "1, 2, 3, 4", "isCorrect": true },
+      { "value": "2, 4, 1, 3", "isCorrect": false },
+      { "value": "5, 3, 2, 1", "isCorrect": false }
+    ]
+  },
+  {
+    "title": "Problem-Solving",
+    "text": "Lily has 3 balloons. Her friend gives her 2 more. How many does she have now?",
+    "options": [
+      { "value": "5", "isCorrect": true },
+      { "value": "4", "isCorrect": false },
+      { "value": "6", "isCorrect": false }
+    ]
+  }
+]
