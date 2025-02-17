@@ -45,7 +45,7 @@
   },
   {
     "title": "Problem-Solving",
-    "text": "Lily has 3 balloons. Her friend gives her 2 more. How many does she have now?",
+    "text": "Umer has 3 balloons. Her friend gives her 2 more. How many does she have now?",
     "options": [
       { "value": "5", "isCorrect": true },
       { "value": "4", "isCorrect": false },
