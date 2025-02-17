@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Interesting Math Fact",
+        "text": "Did you know? A ‘jiffy’ is an actual unit of time! It is 1/100th of a second.",
+        "inputType": "text",
+        "options": []
+    },
+    {
+        "title": "Number Patterns",
+        "text": "The sum of the first 100 natural numbers is?",
+        "inputType": "text",
+        "options": [],
+        "answer": "5050"
+    },
+    {
+        "title": "Pi Day Celebration",
+        "text": "Which date is celebrated as Pi Day every year?",
+        "inputType": "button",
+        "options": [
+            { "value": "March 14", "isCorrect": true },
+            { "value": "April 14", "isCorrect": false },
+            { "value": "May 14", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Magic of Zero",
+        "text": "Which famous mathematician is credited with introducing zero?",
+        "inputType": "button",
+        "options": [
+            { "value": "Pythagoras", "isCorrect": false },
+            { "value": "Aryabhata", "isCorrect": false },
+            { "value": "Brahmagupta", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Fibonacci Sequence",
+        "text": "The Fibonacci sequence starts with 0 and 1. What is the next number after 5?",
+        "inputType": "text",
+        "options": [],
+        "answer": "8"
+    },
+    {
+        "title": "Math in Nature",
+        "text": "Which sequence is commonly found in nature and spirals?",
+        "inputType": "button",
+        "options": [
+            { "value": "Prime Numbers", "isCorrect": false },
+            { "value": "Fibonacci Sequence", "isCorrect": true },
+            { "value": "Even Numbers", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Mathematical Constants",
+        "text": "Which mathematical constant is approximately equal to 2.718?",
+        "inputType": "text",
+        "options": [],
+        "answer": "e"
+    },
+    {
+        "title": "Perfect Squares",
+        "text": "What is the square of 15?",
+        "inputType": "text",
+        "options": [],
+        "answer": "225"
+    }
+]
