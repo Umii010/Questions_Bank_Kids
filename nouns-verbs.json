@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Identify the Noun",
+        "text": "Which word is a noun in this sentence: 'The cat sleeps on the mat'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "sleeps", "isCorrect": false },
+            { "value": "cat", "isCorrect": true },
+            { "value": "on", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Identify the Verb",
+        "text": "Which word is a verb in this sentence: 'The dog barks loudly'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "dog", "isCorrect": false },
+            { "value": "barks", "isCorrect": true },
+            { "value": "loudly", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Write a Noun",
+        "text": "Write a noun that names a place.",
+        "inputType": "text",
+        "correctAnswer": "school"
+    },
+    {
+        "title": "Write a Verb",
+        "text": "Write a verb that describes an action.",
+        "inputType": "text",
+        "correctAnswer": "run"
+    }
+]

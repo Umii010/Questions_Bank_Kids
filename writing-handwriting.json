@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Letter Formation",
+        "text": "Which letter is formed by starting at the top and pulling down?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "L", "isCorrect": true },
+            { "value": "O", "isCorrect": false },
+            { "value": "C", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Sentence Formation",
+        "text": "Arrange these words into a correct sentence: 'dog The runs'",
+        "inputType": "text",
+        "correctAnswer": "The dog runs"
+    },
+    {
+        "title": "Handwriting Practice",
+        "text": "What is the correct way to write the letter 'A'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Start from the bottom", "isCorrect": false },
+            { "value": "Start from the top", "isCorrect": true },
+            { "value": "Write it in reverse", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Capitalization",
+        "text": "Rewrite this sentence with correct capitalization: 'i love to write'",
+        "inputType": "text",
+        "correctAnswer": "I love to write"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Find the Opposite",
+        "text": "What is the opposite of 'hot'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "cold", "isCorrect": true },
+            { "value": "warm", "isCorrect": false },
+            { "value": "heat", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Find the Rhyming Word",
+        "text": "Which word rhymes with 'cat'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "bat", "isCorrect": true },
+            { "value": "dog", "isCorrect": false },
+            { "value": "car", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Write an Opposite",
+        "text": "Write the opposite of 'big'.",
+        "inputType": "text",
+        "correctAnswer": "small"
+    },
+    {
+        "title": "Write a Rhyming Word",
+        "text": "Write a word that rhymes with 'sun'.",
+        "inputType": "text",
+        "correctAnswer": "fun"
+    }
+]

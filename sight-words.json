@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Common Sight Word",
+        "text": "What is the missing word? 'I ___ to school every day.'",
+        "inputType": "text",
+        "correctAnswer": "go"
+    },
+    {
+        "title": "Identify the Sight Word",
+        "text": "Which of these is a sight word?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "run", "isCorrect": false },
+            { "value": "the", "isCorrect": true },
+            { "value": "jump", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Complete the Sentence",
+        "text": "Which word fits best? 'She ___ a book.'",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "read", "isCorrect": true },
+            { "value": "runs", "isCorrect": false },
+            { "value": "jump", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Spell the Sight Word",
+        "text": "Spell the word that completes the sentence: 'I see ___ dog.'",
+        "inputType": "text",
+        "correctAnswer": "a"
+    }
+]

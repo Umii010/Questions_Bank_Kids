@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Story Comprehension",
+        "text": "Listen to the short story and answer: What was the color of the little cat?",
+        "audio": "https://example.com/audio/little-cat-story.mp3",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "White", "isCorrect": false },
+            { "value": "Black", "isCorrect": true },
+            { "value": "Brown", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Poem Rhyme Match",
+        "text": "Which word rhymes with 'star'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Car", "isCorrect": true },
+            { "value": "Dog", "isCorrect": false },
+            { "value": "Book", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Fill in the Blanks",
+        "text": "Complete the famous rhyme: 'Twinkle, twinkle, little ____.'",
+        "inputType": "text",
+        "correctAnswer": "star"
+    },
+    {
+        "title": "Retell a Story",
+        "text": "Can you tell the story in your own words?",
+        "inputType": "text",
+        "correctAnswer": "open-ended"
+    }
+]

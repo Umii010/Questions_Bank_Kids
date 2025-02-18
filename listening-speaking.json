@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Identify the Sound",
+        "text": "Which animal makes the sound 'meow'?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Cat", "isCorrect": true },
+            { "value": "Dog", "isCorrect": false },
+            { "value": "Cow", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Listen and Answer",
+        "text": "What do you hear in the audio?",
+        "audio": "https://example.com/sound/bird-chirping.mp3",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Bird chirping", "isCorrect": true },
+            { "value": "Car horn", "isCorrect": false },
+            { "value": "Dog barking", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Speaking Practice",
+        "text": "Say a sentence using the word 'happy'.",
+        "inputType": "text",
+        "correctAnswer": "open-ended"
+    },
+    {
+        "title": "Respond to a Question",
+        "text": "How do you introduce yourself?",
+        "inputType": "text",
+        "correctAnswer": "My name is"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Identify the Word",
+        "text": "Which word matches the picture?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "cat", "isCorrect": true },
+            { "value": "dog", "isCorrect": false },
+            { "value": "fish", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Complete the Sentence",
+        "text": "Fill in the missing word: 'The sun is ___.'",
+        "inputType": "text",
+        "correctAnswer": "bright"
+    },
+    {
+        "title": "Find the Sight Word",
+        "text": "Which of these is a common sight word?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "run", "isCorrect": false },
+            { "value": "is", "isCorrect": true },
+            { "value": "jump", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Read and Answer",
+        "text": "What color is the apple in the sentence: 'The apple is red'?",
+        "inputType": "text",
+        "correctAnswer": "red"
+    }
+]
