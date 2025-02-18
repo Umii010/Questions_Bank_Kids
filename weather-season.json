@@ -1,0 +1,20 @@
+[
+    {
+        "title": "What is the coldest season of the year?",
+        "text": "Which season is the coldest? ❄️",
+        "options": [
+            { "value": "Winter", "isCorrect": true },
+            { "value": "Summer", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "What do we wear in summer?",
+        "text": "Which type of clothes do we wear on a hot day? ☀️",
+        "options": [
+            { "value": "T-shirt", "isCorrect": true },
+            { "value": "Jacket", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    }
+]

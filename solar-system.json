@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Which planet is the largest?",
+        "text": "Choose the largest planet in the solar system. 🪐",
+        "options": [
+            { "value": "Earth", "isCorrect": false },
+            { "value": "Jupiter", "isCorrect": true }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "Which planet is closest to the Sun?",
+        "text": "Pick the planet nearest to the Sun. ☀️",
+        "options": [
+            { "value": "Mercury", "isCorrect": true },
+            { "value": "Venus", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    }
+]

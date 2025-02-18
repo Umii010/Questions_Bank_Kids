@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Which sense do we use to see?",
+        "text": "Which body part helps us see things? 👀",
+        "options": [
+            { "value": "Eyes", "isCorrect": true },
+            { "value": "Ears", "isCorrect": false },
+            { "value": "Nose", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "What do we use to hear sounds?",
+        "text": "Which sense organ helps us listen to music? 🎵",
+        "options": [
+            { "value": "Ears", "isCorrect": true },
+            { "value": "Hands", "isCorrect": false },
+            { "value": "Feet", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "Match the Sense with its Function",
+        "text": "Select all correct matches:",
+        "options": [
+            { "value": "Eyes - Seeing", "isCorrect": true },
+            { "value": "Ears - Hearing", "isCorrect": true },
+            { "value": "Nose - Tasting", "isCorrect": false },
+            { "value": "Tongue - Tasting", "isCorrect": true },
+            { "value": "Skin - Touching", "isCorrect": true }
+        ],
+        "inputType": "checkbox"
+    },
+    {
+        "title": "True or False",
+        "text": "We use our nose to hear sounds.",
+        "options": [
+            { "value": "True", "isCorrect": false },
+            { "value": "False", "isCorrect": true }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "Fill in the Blank",
+        "text": "The sense organ that helps us smell is the _______.",
+        "options": [
+            { "value": "Nose", "isCorrect": true }
+        ],
+        "inputType": "text"
+    }
+]

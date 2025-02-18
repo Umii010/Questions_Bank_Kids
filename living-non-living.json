@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Identify the Living Thing",
+        "text": "Which of these can grow and breathe? 🐟 🏠 🌳",
+        "options": [
+            { "value": "Fish", "isCorrect": true },
+            { "value": "House", "isCorrect": false },
+            { "value": "Tree", "isCorrect": true }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "Choose the Non-Living Thing",
+        "text": "Which one does not eat or move? 🚗 🐕 📚",
+        "options": [
+            { "value": "Car", "isCorrect": true },
+            { "value": "Dog", "isCorrect": false },
+            { "value": "Book", "isCorrect": true }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "What makes something living?",
+        "text": "Select all that apply:",
+        "options": [
+            { "value": "Breathes", "isCorrect": true },
+            { "value": "Eats", "isCorrect": true },
+            { "value": "Can grow", "isCorrect": true },
+            { "value": "Made of metal", "isCorrect": false }
+        ],
+        "inputType": "checkbox"
+    },
+    {
+        "title": "True or False",
+        "text": "A rock is a living thing.",
+        "options": [
+            { "value": "True", "isCorrect": false },
+            { "value": "False", "isCorrect": true }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "Fill in the Blank",
+        "text": "A dog is a _______ thing.",
+        "options": [
+            { "value": "Living", "isCorrect": true }
+        ],
+        "inputType": "text"
+    }
+]

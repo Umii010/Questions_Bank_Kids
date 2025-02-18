@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Baking Soda and Vinegar Reaction",
+        "text": "What gas is produced when baking soda and vinegar mix?",
+        "inputType": "text",
+        "correctAnswer": "carbon dioxide"
+    },
+    {
+        "title": "Magnet Attraction",
+        "text": "Which of these objects will a magnet attract?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Wood", "isCorrect": false },
+            { "value": "Paperclip", "isCorrect": true },
+            { "value": "Plastic", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Ice Melting",
+        "text": "What happens to ice when you leave it in the sun?",
+        "inputType": "text",
+        "correctAnswer": "it melts"
+    },
+    {
+        "title": "Electric Circuit",
+        "text": "Which item is needed to complete an electric circuit?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Rubber", "isCorrect": false },
+            { "value": "Battery", "isCorrect": true },
+            { "value": "Paper", "isCorrect": false }
+        ]
+    }
+]

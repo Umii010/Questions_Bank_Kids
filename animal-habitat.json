@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Where do penguins live?",
+        "text": "Choose the correct habitat for penguins. 🐧",
+        "options": [
+            { "value": "Antarctica", "isCorrect": true },
+            { "value": "Desert", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    },
+    {
+        "title": "Which animal lives in the desert?",
+        "text": "Select the animal that lives in the desert. 🏜️",
+        "options": [
+            { "value": "Camel", "isCorrect": true },
+            { "value": "Dolphin", "isCorrect": false }
+        ],
+        "inputType": "multiple-choice"
+    }
+]
