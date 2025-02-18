@@ -1,79 +1,62 @@
-{
-  "topic": "Plants and Grow",
-  "grade": 1,
-  "subject": "Science",
-  "subtopics": [
+[
     {
-      "title": "What are Plants?",
-      "description": "Plants are living things that grow in the soil. They can be small like grass or large like trees.",
-      "questions": [
-        {
-          "question": "What do plants need to grow?",
-          "options": [
-            "Water, sunlight, and air",
-            "Only water",
-            "Only sunlight"
-          ],
-          "answer": "Water, sunlight, and air"
-        },
-        {
-          "question": "Where do plants grow?",
-          "options": [
-            "In water",
-            "In the soil",
-            "In the sky"
-          ],
-          "answer": "In the soil"
-        }
-      ]
+        "title": "What do plants need to grow?",
+        "text": "What do plants need to grow?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Water, sunlight, and air", "isCorrect": true },
+            { "value": "Only water", "isCorrect": false },
+            { "value": "Only sunlight", "isCorrect": false }
+        ]
     },
     {
-      "title": "How Plants Grow",
-      "description": "Plants grow from seeds. With the right amount of water, sunlight, and air, the seed can sprout and grow into a full plant.",
-      "questions": [
-        {
-          "question": "What comes first when a plant grows?",
-          "options": [
-            "Flower",
-            "Seed",
-            "Fruit"
-          ],
-          "answer": "Seed"
-        },
-        {
-          "question": "What helps a plant grow?",
-          "options": [
-            "Rain and sunlight",
-            "Cold weather",
-            "Loud music"
-          ],
-          "answer": "Rain and sunlight"
-        }
-      ]
+        "title": "Where do plants grow?",
+        "text": "Where do plants grow?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "In water", "isCorrect": false },
+            { "value": "In the soil", "isCorrect": true },
+            { "value": "In the sky", "isCorrect": false }
+        ]
     },
     {
-      "title": "Parts of a Plant",
-      "description": "A plant has different parts, like the roots, stem, leaves, and flowers, each with a special job.",
-      "questions": [
-        {
-          "question": "Which part of the plant absorbs water?",
-          "options": [
-            "Roots",
-            "Leaves",
-            "Stem"
-          ],
-          "answer": "Roots"
-        },
-        {
-          "question": "Which part of the plant makes food?",
-          "options": [
-            "Roots",
-            "Leaves",
-            "Flowers"
-          ],
-          "answer": "Leaves"
-        }
-      ]
+        "title": "What comes first when a plant grows?",
+        "text": "What comes first when a plant grows?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Flower", "isCorrect": false },
+            { "value": "Seed", "isCorrect": true },
+            { "value": "Fruit", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "What helps a plant grow?",
+        "text": "What helps a plant grow?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Rain and sunlight", "isCorrect": true },
+            { "value": "Cold weather", "isCorrect": false },
+            { "value": "Loud music", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Which part of the plant absorbs water?",
+        "text": "Which part of the plant absorbs water?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Roots", "isCorrect": true },
+            { "value": "Leaves", "isCorrect": false },
+            { "value": "Stem", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Which part of the plant makes food?",
+        "text": "Which part of the plant makes food?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Roots", "isCorrect": false },
+            { "value": "Leaves", "isCorrect": true },
+            { "value": "Flowers", "isCorrect": false }
+        ]
     }
-  ]
-}
+]
