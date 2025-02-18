@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Alphabet Recognition",
+        "text": "What is the first letter of the alphabet?",
+        "inputType": "text",
+        "correctAnswer": "a"
+    },
+    {
+        "title": "Phonics Sound",
+        "text": "Which letter makes the 'buh' sound?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "A", "isCorrect": false },
+            { "value": "B", "isCorrect": true },
+            { "value": "C", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Vowel or Consonant",
+        "text": "Is 'E' a vowel or consonant?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Vowel", "isCorrect": true },
+            { "value": "Consonant", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Missing Letter",
+        "text": "What letter comes after 'D'?",
+        "inputType": "text",
+        "correctAnswer": "e"
+    }
+]
