@@ -1,0 +1,79 @@
+{
+  "topic": "Plants and Grow",
+  "grade": 1,
+  "subject": "Science",
+  "subtopics": [
+    {
+      "title": "What are Plants?",
+      "description": "Plants are living things that grow in the soil. They can be small like grass or large like trees.",
+      "questions": [
+        {
+          "question": "What do plants need to grow?",
+          "options": [
+            "Water, sunlight, and air",
+            "Only water",
+            "Only sunlight"
+          ],
+          "answer": "Water, sunlight, and air"
+        },
+        {
+          "question": "Where do plants grow?",
+          "options": [
+            "In water",
+            "In the soil",
+            "In the sky"
+          ],
+          "answer": "In the soil"
+        }
+      ]
+    },
+    {
+      "title": "How Plants Grow",
+      "description": "Plants grow from seeds. With the right amount of water, sunlight, and air, the seed can sprout and grow into a full plant.",
+      "questions": [
+        {
+          "question": "What comes first when a plant grows?",
+          "options": [
+            "Flower",
+            "Seed",
+            "Fruit"
+          ],
+          "answer": "Seed"
+        },
+        {
+          "question": "What helps a plant grow?",
+          "options": [
+            "Rain and sunlight",
+            "Cold weather",
+            "Loud music"
+          ],
+          "answer": "Rain and sunlight"
+        }
+      ]
+    },
+    {
+      "title": "Parts of a Plant",
+      "description": "A plant has different parts, like the roots, stem, leaves, and flowers, each with a special job.",
+      "questions": [
+        {
+          "question": "Which part of the plant absorbs water?",
+          "options": [
+            "Roots",
+            "Leaves",
+            "Stem"
+          ],
+          "answer": "Roots"
+        },
+        {
+          "question": "Which part of the plant makes food?",
+          "options": [
+            "Roots",
+            "Leaves",
+            "Flowers"
+          ],
+          "answer": "Leaves"
+        }
+      ]
+    }
+  ]
+}
