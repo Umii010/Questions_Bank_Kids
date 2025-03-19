@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What is a Mobile App?",
+        "text": "Explain what a mobile app is and give an example. 📱",
+        "inputType": "text",
+        "correctAnswer": "a mobile app is a software application designed for mobile devices, like WhatsApp"
+    },
+    {
+        "title": "What is a Web App?",
+        "text": "Describe what a web app is and its advantages. 🌐",
+        "inputType": "text",
+        "correctAnswer": "a web app is an application accessed through a web browser, and its advantage is being accessible on any device with a browser"
+    },
+    {
+        "title": "Mobile App vs Web App",
+        "text": "What is the main difference between a mobile app and a web app? 📱🌐",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Mobile apps are accessed through a browser", "isCorrect": false },
+            { "value": "Web apps are accessed through a browser", "isCorrect": true },
+            { "value": "Mobile apps cannot be installed", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Advantages of Mobile Apps",
+        "text": "What are the advantages of using mobile apps? 📱",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Mobile apps can access device features like camera", "isCorrect": true },
+            { "value": "Mobile apps require internet always", "isCorrect": false },
+            { "value": "Mobile apps can only work offline", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Creating Simple Web Apps",
+        "text": "What is required to create a basic web app? 🌐",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "HTML, CSS, and JavaScript", "isCorrect": true },
+            { "value": "Java and C++", "isCorrect": false },
+            { "value": "Ruby and PHP", "isCorrect": false }
+        ]
+    }
+]
