@@ -1,0 +1,46 @@
+[
+    {
+        "title": "What is System Software?",
+        "text": "Explain the role of system software. 💻",
+        "inputType": "text",
+        "correctAnswer": "it manages hardware and runs the computer"
+    },
+    {
+        "title": "What is Application Software?",
+        "text": "Give an example of application software. 📱",
+        "inputType": "text",
+        "correctAnswer": "microsoft word"
+    },
+    {
+        "title": "What is Utility Software?",
+        "text": "Explain the purpose of utility software. ⚙️",
+        "inputType": "text",
+        "correctAnswer": "utility software helps in maintaining and optimizing the computer, like antivirus programs"
+    },
+    {
+        "title": "What is an Example of System Software?",
+        "text": "Give an example of system software. 🖥️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Windows", "isCorrect": true },
+            { "value": "Google Chrome", "isCorrect": false },
+            { "value": "Microsoft Word", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "What is Open-Source Software?",
+        "text": "Explain what open-source software is. 💻",
+        "inputType": "text",
+        "correctAnswer": "open-source software is software whose source code is available for anyone to view, modify, and distribute"
+    },
+    {
+        "title": "Which of These is an Example of Application Software?",
+        "text": "Which of these is an example of application software? 📱",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Microsoft Word", "isCorrect": true },
+            { "value": "Linux", "isCorrect": false },
+            { "value": "Windows", "isCorrect": false }
+        ]
+    }
+]
