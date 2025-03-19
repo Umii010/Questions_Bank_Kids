@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Who helps us when we are sick?",
+        "text": "👨‍⚕️ 🚒 👩‍🏫",
+        "inputType": "text",
+        "correctAnswer": "doctor"
+    },
+    {
+        "title": "Who teaches us new things?",
+        "text": "👩‍🏫 🚓 🏗️",
+        "inputType": "text",
+        "correctAnswer": "teacher"
+    },
+    {
+        "title": "Who helps during an emergency?",
+        "text": "🚒 🚓 🏥",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Police", "isCorrect": false },
+            { "value": "Doctor", "isCorrect": false },
+            { "value": "Firefighter", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Who builds houses and buildings?",
+        "text": "👷‍♂️ 🏗️ 🚧",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Engineer", "isCorrect": false },
+            { "value": "Teacher", "isCorrect": false },
+            { "value": "Construction Worker", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Who helps clean the community?",
+        "text": "🧹 🚮 🚒",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Firefighter", "isCorrect": false },
+            { "value": "Teacher", "isCorrect": false },
+            { "value": "Sanitation Worker", "isCorrect": true }
+        ]
+    }
+]
