@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What is an App?",
+        "text": "Explain what an app is. 📱",
+        "inputType": "text",
+        "correctAnswer": "a software application designed to perform specific tasks"
+    },
+    {
+        "title": "How Do Apps Interact With Users?",
+        "text": "Describe how apps respond to user inputs. 🖱️",
+        "inputType": "text",
+        "correctAnswer": "apps respond to user actions like clicks or taps to perform functions"
+    },
+    {
+        "title": "Types of Apps",
+        "text": "Which one is a type of mobile app? 🖥️ 📱 🏠",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Desktop App", "isCorrect": false },
+            { "value": "Mobile App", "isCorrect": true },
+            { "value": "Household App", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "App Functionality",
+        "text": "How do apps work with databases? 📡 📚",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "They access data from the internet", "isCorrect": true },
+            { "value": "They store everything locally", "isCorrect": false },
+            { "value": "They don't need data", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Interactivity in Apps",
+        "text": "How do apps interact with other software? 📱💻",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "They communicate via APIs", "isCorrect": true },
+            { "value": "They only use local data", "isCorrect": false },
+            { "value": "They cannot communicate with other software", "isCorrect": false }
+        ]
+    }
+]
