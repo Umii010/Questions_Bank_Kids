@@ -1,0 +1,44 @@
+[
+    {
+        "title": "National Symbols",
+        "text": "What is the national animal of your country? 🦁 🦅 🐯",
+        "inputType": "text",
+        "correctAnswer": "lion"
+    },
+    {
+        "title": "Festivals",
+        "text": "Which festival is celebrated in your country? 🎉 🏮 🎊",
+        "inputType": "text",
+        "correctAnswer": "diwali"
+    },
+    {
+        "title": "Famous Foods",
+        "text": "Which food is a traditional dish in your country? 🍕 🍣 🥘",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Sushi", "isCorrect": false },
+            { "value": "Pizza", "isCorrect": false },
+            { "value": "Biryani", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Traditional Clothing",
+        "text": "Which is a traditional clothing style in your country? 👗 🏵️👘",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Kimono", "isCorrect": false },
+            { "value": "Sari", "isCorrect": true },
+            { "value": "Suit", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Major Landmarks",
+        "text": "What is a famous landmark in your country? 🗽 🏰 🏯",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Eiffel Tower", "isCorrect": false },
+            { "value": "Taj Mahal", "isCorrect": true },
+            { "value": "Great Wall of China", "isCorrect": false }
+        ]
+    }
+]
