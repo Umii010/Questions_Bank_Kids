@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What is Scratch used for?",
+        "text": "Is Scratch used for coding, drawing, or reading?",
+        "inputType": "text",
+        "correctAnswer": "coding"
+    },
+    {
+        "title": "Scratch Coding Blocks",
+        "text": "Which block makes a sprite move? 🟨 🎭 📜",
+        "inputType": "text",
+        "correctAnswer": "yellow"
+    },
+    {
+        "title": "Events in Scratch",
+        "text": "Which block starts the code when clicked?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "'when green flag clicked'", "isCorrect": true },
+            { "value": "'when space key pressed'", "isCorrect": false },
+            { "value": "'when sprite clicked'", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Loops in Scratch",
+        "text": "Which block is used to repeat actions?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "'repeat until'", "isCorrect": true },
+            { "value": "'say Hello'", "isCorrect": false },
+            { "value": "'wait 1 second'", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Sound Blocks in Scratch",
+        "text": "Which block is used to play a sound?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "'play sound until done'", "isCorrect": true },
+            { "value": "'go to x: y:'", "isCorrect": false },
+            { "value": "'change color effect'", "isCorrect": false }
+        ]
+    }
+]
