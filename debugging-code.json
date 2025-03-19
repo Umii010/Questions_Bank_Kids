@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Find the Error",
+        "text": "What is wrong with this code snippet? print(Hello World)",
+        "inputType": "text",
+        "correctAnswer": "missing quotes"
+    },
+    {
+        "title": "Fix the Bug",
+        "text": "Which option correctly fixes this code? if x = 5:",
+        "inputType": "text",
+        "correctAnswer": "use == instead of ="
+    },
+    {
+        "title": "Identify the Error",
+        "text": "What is wrong with this loop? for i in range(5) print(i)",
+        "inputType": "text",
+        "correctAnswer": "missing colon"
+    },
+    {
+        "title": "Select the Correct Fix",
+        "text": "Which option correctly fixes this code? print('Hello' + 5)",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "print('Hello' + str(5))", "isCorrect": true },
+            { "value": "print('Hello' 5)", "isCorrect": false },
+            { "value": "print('Hello' * 5)", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Debugging Syntax Errors",
+        "text": "Which of these statements is incorrect?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "print('Hello World')", "isCorrect": false },
+            { "value": "if x == 5 print(x)", "isCorrect": true },
+            { "value": "for i in range(3): print(i)", "isCorrect": false }
+        ]
+    }
+]
