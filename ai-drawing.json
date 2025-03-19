@@ -1,0 +1,40 @@
+[
+    {
+        "title": "AI and Art Tools",
+        "text": "Which AI tool is used for drawing? 🎨 🤖",
+        "inputType": "text",
+        "correctAnswer": "dall-e"
+    },
+    {
+        "title": "AI Creativity",
+        "text": "Can AI create original paintings? 🎨 🤔",
+        "inputType": "text",
+        "correctAnswer": "yes"
+    },
+    {
+        "title": "AI-Generated Art",
+        "text": "Which AI can turn text into an image?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Photoshop", "isCorrect": false },
+            { "value": "DALL-E", "isCorrect": true },
+            { "value": "MS Paint", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "AI in Animation",
+        "text": "Which AI technology helps animate images?",
+        "inputType": "text",
+        "correctAnswer": "deep learning"
+    },
+    {
+        "title": "AI and Colorization",
+        "text": "Which AI feature can add color to black-and-white images?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Auto Colorization", "isCorrect": true },
+            { "value": "Manual Sketching", "isCorrect": false },
+            { "value": "Neural Filters", "isCorrect": true }
+        ]
+    }
+]
