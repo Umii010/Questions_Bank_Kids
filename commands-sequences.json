@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Understanding Commands",
+        "text": "Which command makes a robot move forward?",
+        "inputType": "text",
+        "correctAnswer": "move forward"
+    },
+    {
+        "title": "Sequencing Commands",
+        "text": "Which of these is the correct sequence to make a robot turn right?",
+        "inputType": "text",
+        "correctAnswer": "turn right"
+    },
+    {
+        "title": "Choose the Right Command",
+        "text": "Which command stops a robot?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "stop", "isCorrect": true },
+            { "value": "move", "isCorrect": false },
+            { "value": "jump", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Order the Steps",
+        "text": "Which of the following steps correctly describes a sequence to make a robot walk in a square?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Move forward → Turn right → Move forward → Turn right → Move forward → Turn right → Move forward → Turn right", "isCorrect": true },
+            { "value": "Move forward → Move forward → Move forward", "isCorrect": false },
+            { "value": "Turn left → Move forward → Jump", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Identify the Command",
+        "text": "Which of these commands is used to make a robot repeat actions?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "loop", "isCorrect": true },
+            { "value": "stop", "isCorrect": false },
+            { "value": "move forward", "isCorrect": false }
+        ]
+    }
+]
