@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Computers in Education",
+        "text": "How do students use computers for learning? 📖💻",
+        "inputType": "text",
+        "correctAnswer": "online learning"
+    },
+    {
+        "title": "Computers at Work",
+        "text": "What is one way professionals use computers at work? 🏢🖥️",
+        "inputType": "text",
+        "correctAnswer": "emails"
+    },
+    {
+        "title": "Entertainment",
+        "text": "Which activity can you do on a computer for entertainment?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Watching movies", "isCorrect": true },
+            { "value": "Cooking food", "isCorrect": false },
+            { "value": "Playing football", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Online Shopping",
+        "text": "What is an example of using a computer to buy products online?",
+        "inputType": "text",
+        "correctAnswer": "e-commerce"
+    },
+    {
+        "title": "Communication",
+        "text": "Which platform can be used for video calls?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Zoom", "isCorrect": true },
+            { "value": "Calculator", "isCorrect": false },
+            { "value": "Paint", "isCorrect": false }
+        ]
+    }
+]
