@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Future Jobs",
+        "text": "Will AI create new job opportunities? (Yes/No)",
+        "inputType": "text",
+        "correctAnswer": "yes"
+    },
+    {
+        "title": "Smart Cities",
+        "text": "How will AI help in building smart cities?",
+        "inputType": "text",
+        "correctAnswer": "by optimizing traffic, energy, and safety"
+    },
+    {
+        "title": "AI in Healthcare",
+        "text": "How can AI improve healthcare?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Faster diagnosis", "isCorrect": true },
+            { "value": "Replacing doctors completely", "isCorrect": false },
+            { "value": "Better patient care", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "AI in Education",
+        "text": "What is one way AI is used in education?",
+        "inputType": "text",
+        "correctAnswer": "personalized learning"
+    },
+    {
+        "title": "Self-Driving Cars",
+        "text": "Which AI technology is used in self-driving cars?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Machine Learning", "isCorrect": true },
+            { "value": "Handwritten Algorithms", "isCorrect": false },
+            { "value": "Computer Vision", "isCorrect": true }
+        ]
+    }
+]
