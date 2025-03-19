@@ -1,0 +1,40 @@
+[
+    {
+        "title": "What is the Internet?",
+        "text": "Is the Internet a physical object or a network of connected computers?",
+        "inputType": "text",
+        "correctAnswer": "network"
+    },
+    {
+        "title": "Internet Uses",
+        "text": "Which of these is NOT a use of the Internet? (Browsing, Cooking, Email)",
+        "inputType": "text",
+        "correctAnswer": "cooking"
+    },
+    {
+        "title": "First Email Sent",
+        "text": "Who sent the first email?",
+        "inputType": "text",
+        "correctAnswer": "ray tomlinson"
+    },
+    {
+        "title": "Choosing the Right Browser",
+        "text": "Which of the following is a web browser?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Google Chrome", "isCorrect": true },
+            { "value": "Microsoft Word", "isCorrect": false },
+            { "value": "Adobe Photoshop", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Understanding Web Addresses",
+        "text": "What does 'www' stand for in web addresses?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "World Wide Web", "isCorrect": true },
+            { "value": "Web Wireless Wave", "isCorrect": false },
+            { "value": "Wide Web World", "isCorrect": false }
+        ]
+    }
+]
