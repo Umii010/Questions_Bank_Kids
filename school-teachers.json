@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What does a teacher do?",
+        "text": "What is the role of a teacher in school? 🎓 📚 ✏️",
+        "inputType": "text",
+        "correctAnswer": "teach"
+    },
+    {
+        "title": "Who works at a school?",
+        "text": "Name one person who works at a school. 🏫 👩‍🏫 🧹",
+        "inputType": "text",
+        "correctAnswer": "teacher"
+    },
+    {
+        "title": "School Staff",
+        "text": "Who helps students with health issues in school? 🏥",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Teacher", "isCorrect": false },
+            { "value": "Janitor", "isCorrect": false },
+            { "value": "Nurse", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Roles in a School",
+        "text": "Which person in school helps clean classrooms? 🧹",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Teacher", "isCorrect": false },
+            { "value": "Janitor", "isCorrect": true },
+            { "value": "Principal", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "School Roles",
+        "text": "Who is responsible for making school rules? ⚖️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Teacher", "isCorrect": false },
+            { "value": "Principal", "isCorrect": true },
+            { "value": "Student", "isCorrect": false }
+        ]
+    }
+]
