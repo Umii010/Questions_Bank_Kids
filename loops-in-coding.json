@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Identify the Loop",
+        "text": "Which of these is a loop? for, while, if",
+        "inputType": "text",
+        "correctAnswer": "for"
+    },
+    {
+        "title": "Loop Usage",
+        "text": "Which loop is used to repeat a task until a condition is met?",
+        "inputType": "text",
+        "correctAnswer": "while"
+    },
+    {
+        "title": "Loop Types",
+        "text": "Which of these loops will always execute at least once?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "for loop", "isCorrect": false },
+            { "value": "while loop", "isCorrect": false },
+            { "value": "do-while loop", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Infinite Loops",
+        "text": "Which of the following can cause an infinite loop?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "A loop with no exit condition", "isCorrect": true },
+            { "value": "A loop with a decreasing counter", "isCorrect": false },
+            { "value": "A loop using 'break'", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Loop Control Statements",
+        "text": "Which statement is used to exit a loop early?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "break", "isCorrect": true },
+            { "value": "continue", "isCorrect": false },
+            { "value": "return", "isCorrect": false }
+        ]
+    }
+]
