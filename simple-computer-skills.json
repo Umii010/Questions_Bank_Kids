@@ -1,0 +1,46 @@
+[
+    {
+        "title": "What is a Computer?",
+        "text": "Explain what a computer is and its main components. 🖥️",
+        "inputType": "text",
+        "correctAnswer": "a computer is an electronic device that processes data and includes components like the CPU, monitor, and keyboard"
+    },
+    {
+        "title": "What is a Mouse and Keyboard?",
+        "text": "Describe the function of a computer mouse and keyboard. 🖱️",
+        "inputType": "text",
+        "correctAnswer": "the mouse is used to interact with the computer screen, and the keyboard is used to input text and commands"
+    },
+    {
+        "title": "What is a CPU?",
+        "text": "Explain the function of the CPU in a computer. 🖥️",
+        "inputType": "text",
+        "correctAnswer": "the CPU (Central Processing Unit) is the brain of the computer and handles all processing tasks"
+    },
+    {
+        "title": "What is an Operating System?",
+        "text": "Describe the role of an operating system in a computer. 💻",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "An operating system manages hardware and software resources", "isCorrect": true },
+            { "value": "An operating system is only for running games", "isCorrect": false },
+            { "value": "An operating system is the computer’s hardware", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Keyboard Functions",
+        "text": "Which of the following keys is used to copy selected text? ⌨️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Ctrl + C", "isCorrect": true },
+            { "value": "Ctrl + V", "isCorrect": false },
+            { "value": "Ctrl + X", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "What is a Browser?",
+        "text": "What is the role of a browser on a computer? 🌐",
+        "inputType": "text",
+        "correctAnswer": "a browser is a software application used to access and view websites on the internet"
+    }
+]
