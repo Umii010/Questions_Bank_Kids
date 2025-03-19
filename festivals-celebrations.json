@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Identify the Festival",
+        "text": "Which festival is known for fireworks and gifts? 🎆🎁",
+        "inputType": "text",
+        "correctAnswer": "diwali"
+    },
+    {
+        "title": "Choose the Celebration",
+        "text": "Which celebration includes a decorated tree? 🎄",
+        "inputType": "text",
+        "correctAnswer": "christmas"
+    },
+    {
+        "title": "Cultural Festival",
+        "text": "Which festival is celebrated with a dragon dance? 🐉",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Diwali", "isCorrect": false },
+            { "value": "Chinese New Year", "isCorrect": true },
+            { "value": "Eid", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Winter Festival",
+        "text": "Which festival is celebrated during winter with lights and candles? 🕯️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Christmas", "isCorrect": false },
+            { "value": "Hanukkah", "isCorrect": true },
+            { "value": "Easter", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Festival of Colors",
+        "text": "Which festival is known for throwing colored powder? 🌈",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Holi", "isCorrect": true },
+            { "value": "Carnival", "isCorrect": false },
+            { "value": "Oktoberfest", "isCorrect": false }
+        ]
+    }
+]
