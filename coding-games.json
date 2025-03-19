@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Find the Missing Code",
+        "text": "What should replace '___' in: print(\"Hello ___!\")?",
+        "inputType": "text",
+        "correctAnswer": "world"
+    },
+    {
+        "title": "Guess the Output",
+        "text": "What is the output of: x = 5; print(x * 2)?",
+        "inputType": "text",
+        "correctAnswer": "10"
+    },
+    {
+        "title": "Identify the Loop",
+        "text": "Which of the following is a loop structure?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "for", "isCorrect": true },
+            { "value": "if", "isCorrect": false },
+            { "value": "print", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Fill in the Blank",
+        "text": "Which keyword is used to define a function in Python?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "def", "isCorrect": true },
+            { "value": "function", "isCorrect": false },
+            { "value": "define", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "True or False?",
+        "text": "Python is a compiled language.",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "True", "isCorrect": false },
+            { "value": "False", "isCorrect": true }
+        ]
+    }
+]
