@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Showing Respect",
+        "text": "Which of these shows respect? ✋👂🚶",
+        "inputType": "text",
+        "correctAnswer": "listening"
+    },
+    {
+        "title": "Respecting Differences",
+        "text": "How can we respect people with different opinions? 💬🤝🚫",
+        "inputType": "text",
+        "correctAnswer": "listen"
+    },
+    {
+        "title": "Respect for Others",
+        "text": "What is a respectful way to behave when someone disagrees with you?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Yell at them", "isCorrect": false },
+            { "value": "Listen to their point of view", "isCorrect": true },
+            { "value": "Ignore them", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Respect in Teamwork",
+        "text": "How can you show respect when working with others?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Listen and value their opinions", "isCorrect": true },
+            { "value": "Take credit for their work", "isCorrect": false },
+            { "value": "Ignore their ideas", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Respect for Teachers",
+        "text": "What is a respectful action towards your teacher?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Follow their instructions", "isCorrect": true },
+            { "value": "Disrupt the class", "isCorrect": false },
+            { "value": "Ignore their guidance", "isCorrect": false }
+        ]
+    }
+]
