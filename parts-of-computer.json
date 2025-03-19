@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Identify the Input Device",
+        "text": "Which of these is used to enter data? 🖱️ 🖥️ ⌨️",
+        "inputType": "text",
+        "correctAnswer": "keyboard"
+    },
+    {
+        "title": "Choose the Output Device",
+        "text": "Which device displays information? 🖨️ 🖥️ 🎧",
+        "inputType": "text",
+        "correctAnswer": "monitor"
+    },
+    {
+        "title": "Main Processing Unit",
+        "text": "Which part of the computer is called the 'brain'?",
+        "inputType": "text",
+        "correctAnswer": "cpu"
+    },
+    {
+        "title": "Storage Devices",
+        "text": "Which device is used to store data permanently?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Hard Drive", "isCorrect": true },
+            { "value": "RAM", "isCorrect": false },
+            { "value": "Monitor", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Portable Storage",
+        "text": "Which of these is a portable storage device?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "USB Drive", "isCorrect": true },
+            { "value": "Keyboard", "isCorrect": false },
+            { "value": "Monitor", "isCorrect": false }
+        ]
+    }
+]
