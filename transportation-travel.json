@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Identify the Mode of Transport",
+        "text": "Which one is used for air travel? ✈️ 🚗 🛳️",
+        "inputType": "text",
+        "correctAnswer": "airplane"
+    },
+    {
+        "title": "Choose the Fastest Transport",
+        "text": "Which one is the fastest? 🚲 🚆 ✈️",
+        "inputType": "text",
+        "correctAnswer": "airplane"
+    },
+    {
+        "title": "Types of Transport",
+        "text": "Which one is used for water travel? 🚗 🛳️ 🚂",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Car", "isCorrect": false },
+            { "value": "Ship", "isCorrect": true },
+            { "value": "Train", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Land Transportation",
+        "text": "Which of these is a mode of land transportation? 🚗 🛳️ ✈️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Car", "isCorrect": true },
+            { "value": "Ship", "isCorrect": false },
+            { "value": "Airplane", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Air Travel",
+        "text": "What is commonly used for air travel? 🛳️ 🚗 ✈️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Airplane", "isCorrect": true },
+            { "value": "Car", "isCorrect": false },
+            { "value": "Boat", "isCorrect": false }
+        ]
+    }
+]
