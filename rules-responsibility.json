@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Following Rules",
+        "text": "Why is it important to follow rules? ⚖️🚦🏫",
+        "inputType": "text",
+        "correctAnswer": "to stay safe"
+    },
+    {
+        "title": "Being Responsible",
+        "text": "Which of these is a responsible action? 📚 🗑️ 🎮",
+        "inputType": "text",
+        "correctAnswer": "cleaning up"
+    },
+    {
+        "title": "Respecting Authority",
+        "text": "Why should we respect our teachers and parents? 👩‍🏫👨‍👩‍👧",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Because they are older", "isCorrect": false },
+            { "value": "Because they help us grow", "isCorrect": true },
+            { "value": "Because they are always right", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Sharing Responsibilities",
+        "text": "Which is an example of sharing responsibilities? 🤝",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Doing everything yourself", "isCorrect": false },
+            { "value": "Asking others for help", "isCorrect": true },
+            { "value": "Ignoring others", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Respecting Personal Space",
+        "text": "Why should we respect other people's personal space? 🧑‍🤝‍🧑",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "To avoid arguments", "isCorrect": false },
+            { "value": "To make others feel comfortable", "isCorrect": true },
+            { "value": "Because it's polite", "isCorrect": false }
+        ]
+    }
+]
