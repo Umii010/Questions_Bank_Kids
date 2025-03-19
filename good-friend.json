@@ -1,0 +1,44 @@
+[
+    {
+        "title": "How Can You Be a Good Friend?",
+        "text": "Which of these is an act of kindness? 💖 🎁 😡",
+        "inputType": "text",
+        "correctAnswer": "heart"
+    },
+    {
+        "title": "What Makes a Good Friend?",
+        "text": "Which of these is NOT a good friendship trait? 😊 🚫 😢",
+        "inputType": "text",
+        "correctAnswer": "stop"
+    },
+    {
+        "title": "Friendship Traits",
+        "text": "Which of these is a good trait of a friend?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Honesty", "isCorrect": true },
+            { "value": "Selfishness", "isCorrect": false },
+            { "value": "Loyalty", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Helping Friends",
+        "text": "Which action shows you are a good friend?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Helping with homework", "isCorrect": true },
+            { "value": "Ignoring their problems", "isCorrect": false },
+            { "value": "Being kind and caring", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Signs of a Good Friendship",
+        "text": "Which of these shows a strong friendship?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Sharing secrets", "isCorrect": true },
+            { "value": "Keeping everything a secret", "isCorrect": false },
+            { "value": "Being there in tough times", "isCorrect": true }
+        ]
+    }
+]
