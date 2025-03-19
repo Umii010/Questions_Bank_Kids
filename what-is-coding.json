@@ -1,0 +1,45 @@
+[
+    {
+        "title": "What is Coding?",
+        "text": "Coding is like giving instructions to a ________. ",
+        "inputType": "text",
+        "correctAnswer": "computer"
+    },
+    {
+        "title": "Why is Coding Important?",
+        "text": "Coding helps us create ________. ",
+        "inputType": "text",
+        "correctAnswer": "programs"
+    },
+    {
+        "title": "Programming Languages",
+        "text": "Which of these is a programming language?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Python", "isCorrect": true },
+            { "value": "Banana", "isCorrect": false },
+            { "value": "C++", "isCorrect": true },
+            { "value": "Table", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Coding Logic",
+        "text": "If you want a computer to repeat a task multiple times, what should you use?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Loop", "isCorrect": true },
+            { "value": "If-Else", "isCorrect": false },
+            { "value": "Print", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Debugging",
+        "text": "What is the process of fixing errors in a program called?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Debugging", "isCorrect": true },
+            { "value": "Compiling", "isCorrect": false },
+            { "value": "Hacking", "isCorrect": false }
+        ]
+    }
+]
