@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What is a Drawing App?",
+        "text": "Explain what a drawing app is and its uses. 🎨",
+        "inputType": "text",
+        "correctAnswer": "a digital tool for creating images and artwork"
+    },
+    {
+        "title": "How Can You Create Art in a Drawing App?",
+        "text": "Describe the process of creating art in a drawing app. 🖌️",
+        "inputType": "text",
+        "correctAnswer": "you can use tools like brushes, colors, and layers to create art"
+    },
+    {
+        "title": "Drawing Tools in Apps",
+        "text": "Which tool is commonly used in drawing apps to create art? 🎨🖍️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Brush", "isCorrect": true },
+            { "value": "Hammer", "isCorrect": false },
+            { "value": "Text Editor", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Layers in Drawing Apps",
+        "text": "Why are layers important in drawing apps? 🖼️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "They allow stacking of different elements", "isCorrect": true },
+            { "value": "They are used to change the background color", "isCorrect": false },
+            { "value": "They are for cropping images", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Creating Digital Art",
+        "text": "What can you create in a drawing app? 🎨🖌️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Digital art and illustrations", "isCorrect": true },
+            { "value": "3D sculptures", "isCorrect": false },
+            { "value": "Web pages", "isCorrect": false }
+        ]
+    }
+]
