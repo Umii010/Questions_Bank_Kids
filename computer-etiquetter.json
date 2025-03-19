@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Creating Strong Passwords",
+        "text": "What makes a password strong?",
+        "inputType": "text",
+        "correctAnswer": "mix of letters, numbers, and symbols"
+    },
+    {
+        "title": "Safe Online Behavior",
+        "text": "Which of these should you avoid sharing online?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Home address", "isCorrect": true },
+            { "value": "Favorite color", "isCorrect": false },
+            { "value": "Phone number", "isCorrect": true },
+            { "value": "Pet's name", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Identifying Scam Emails",
+        "text": "How can you recognize a scam email?",
+        "inputType": "options",
+        "options": [
+            { "value": "Unexpected requests for personal information", "isCorrect": true },
+            { "value": "Emails from known friends", "isCorrect": false },
+            { "value": "Official government emails", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Cyberbullying Prevention",
+        "text": "What should you do if someone is bullying you online?",
+        "inputType": "options",
+        "options": [
+            { "value": "Ignore it", "isCorrect": false },
+            { "value": "Tell a trusted adult", "isCorrect": true },
+            { "value": "Respond with mean words", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Safe Downloads",
+        "text": "Which files should you be careful about downloading?",
+        "inputType": "options",
+        "options": [
+            { "value": "Files from unknown emails", "isCorrect": true },
+            { "value": "Software from official websites", "isCorrect": false },
+            { "value": "Pictures from your own camera", "isCorrect": false }
+        ]
+    }
+]
