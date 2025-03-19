@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Being Responsible",
+        "text": "Which of these shows responsibility? 🗑️ 📚 🎮",
+        "inputType": "text",
+        "correctAnswer": "books"
+    },
+    {
+        "title": "Choose the Responsible Action",
+        "text": "What should you do when you finish eating? 🍽️ 🏃‍♂️ 🛑",
+        "inputType": "text",
+        "correctAnswer": "clean"
+    },
+    {
+        "title": "Taking Care of Your Tasks",
+        "text": "What is a responsible thing to do when you are given a task?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Complete it on time", "isCorrect": true },
+            { "value": "Ignore it", "isCorrect": false },
+            { "value": "Ask someone else to do it", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Responsible for Your Belongings",
+        "text": "How can you be responsible with your belongings?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Take care of them", "isCorrect": true },
+            { "value": "Leave them anywhere", "isCorrect": false },
+            { "value": "Ask someone to take care of them", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Responsible Behavior",
+        "text": "Which of these shows responsible behavior?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Finish homework before playing", "isCorrect": true },
+            { "value": "Play without doing homework", "isCorrect": false },
+            { "value": "Ignore your responsibilities", "isCorrect": false }
+        ]
+    }
+]
