@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Simple If-Else Question",
+        "text": "If it is raining, should you take an umbrella? (yes/no)",
+        "inputType": "text",
+        "correctAnswer": "yes"
+    },
+    {
+        "title": "Decision Making",
+        "text": "If you score 90 or more, do you get a certificate? (yes/no)",
+        "inputType": "text",
+        "correctAnswer": "yes"
+    },
+    {
+        "title": "Traffic Light Decisions",
+        "text": "If the traffic light is red, should you stop? (yes/no)",
+        "inputType": "text",
+        "correctAnswer": "yes"
+    },
+    {
+        "title": "Comparing Numbers",
+        "text": "If 10 is greater than 5, should the condition return true?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "True", "isCorrect": true },
+            { "value": "False", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Even or Odd",
+        "text": "If a number is even, should it be divisible by 2?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Yes", "isCorrect": true },
+            { "value": "No", "isCorrect": false }
+        ]
+    }
+]
