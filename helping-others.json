@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Ways to Help",
+        "text": "Which of these is a way to help someone? 🤝 🎨 🚗",
+        "inputType": "text",
+        "correctAnswer": "handshake"
+    },
+    {
+        "title": "Helping in Daily Life",
+        "text": "What can you do to help at home? 🍽️ 📺 🎸",
+        "inputType": "text",
+        "correctAnswer": "dishes"
+    },
+    {
+        "title": "Helping Friends",
+        "text": "Which of these is a way to help a friend?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Listening to them", "isCorrect": true },
+            { "value": "Ignoring their problems", "isCorrect": false },
+            { "value": "Laughing at them", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Helping the Environment",
+        "text": "What can you do to help the environment?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Plant a tree", "isCorrect": true },
+            { "value": "Waste food", "isCorrect": false },
+            { "value": "Recycle paper", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Kindness Matters",
+        "text": "Which of these is an act of kindness?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Helping an elderly person", "isCorrect": true },
+            { "value": "Being rude to others", "isCorrect": false },
+            { "value": "Telling someone a joke", "isCorrect": true }
+        ]
+    }
+]
