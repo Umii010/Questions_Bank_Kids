@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Who is in Your Family?",
+        "text": "Who do you live with? 👨‍👩‍👧‍👦",
+        "inputType": "text",
+        "correctAnswer": "family"
+    },
+    {
+        "title": "What is in Your Home?",
+        "text": "Name a room in your house. 🏠",
+        "inputType": "text",
+        "correctAnswer": "living room"
+    },
+    {
+        "title": "Family Roles",
+        "text": "Who is the head of the family in your culture? 👨‍👩‍👧‍👦",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Father", "isCorrect": true },
+            { "value": "Mother", "isCorrect": false },
+            { "value": "Grandfather", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Family Activities",
+        "text": "Which activity is common in family gatherings? 🍕 🍔 🎳",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Bowling", "isCorrect": true },
+            { "value": "Reading", "isCorrect": false },
+            { "value": "Shopping", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Family Meals",
+        "text": "Which meal is often served during family events? 🍽️ 🥗 🍰",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Cake", "isCorrect": false },
+            { "value": "Salad", "isCorrect": false },
+            { "value": "Biryani", "isCorrect": true }
+        ]
+    }
+]
