@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What is Educational Software?",
+        "text": "Explain what educational software is and its uses. 🖥️",
+        "inputType": "text",
+        "correctAnswer": "software designed to teach or help people learn"
+    },
+    {
+        "title": "How Do Games Enhance Learning?",
+        "text": "Describe how games can enhance learning for kids. 🎮",
+        "inputType": "text",
+        "correctAnswer": "games can make learning more engaging, interactive, and fun"
+    },
+    {
+        "title": "Benefits of Educational Games",
+        "text": "What are the benefits of using educational games for learning? 🎮",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "They make learning fun", "isCorrect": true },
+            { "value": "They allow for unlimited internet access", "isCorrect": false },
+            { "value": "They replace traditional classrooms", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Types of Educational Software",
+        "text": "Which of the following is an example of educational software? 🖥️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Math games", "isCorrect": true },
+            { "value": "Web browsers", "isCorrect": false },
+            { "value": "Video streaming platforms", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Educational Games for Kids",
+        "text": "Which type of games help kids learn better? 🎮🧠",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Games with problem-solving tasks", "isCorrect": true },
+            { "value": "Games with no objectives", "isCorrect": false },
+            { "value": "Games with heavy violence", "isCorrect": false }
+        ]
+    }
+]
