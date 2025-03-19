@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What is Block Coding?",
+        "text": "Which of these is a block-based programming language? Scratch, Python, Java",
+        "inputType": "text",
+        "correctAnswer": "scratch"
+    },
+    {
+        "title": "Why Use Block Coding?",
+        "text": "Which feature makes block coding easier? Drag & Drop, Typing, Compiling",
+        "inputType": "text",
+        "correctAnswer": "drag & drop"
+    },
+    {
+        "title": "Block Coding Examples",
+        "text": "Which of the following are block-based coding platforms?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Scratch", "isCorrect": true },
+            { "value": "Blockly", "isCorrect": true },
+            { "value": "JavaScript", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Benefits of Block Coding",
+        "text": "What are the benefits of block coding?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Easy to learn", "isCorrect": true },
+            { "value": "Requires advanced typing skills", "isCorrect": false },
+            { "value": "Helps understand programming logic", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "Who Uses Block Coding?",
+        "text": "Block coding is mainly used by?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Beginners & kids", "isCorrect": true },
+            { "value": "Only professional developers", "isCorrect": false },
+            { "value": "Scientists", "isCorrect": false }
+        ]
+    }
+]
