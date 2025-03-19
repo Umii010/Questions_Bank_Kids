@@ -1,0 +1,44 @@
+[
+    {
+        "title": "What Are Learning Apps for Kids?",
+        "text": "Explain what learning apps for kids are and how they help. 📱",
+        "inputType": "text",
+        "correctAnswer": "they are educational apps designed to help kids learn in fun and interactive ways"
+    },
+    {
+        "title": "How Do Learning Apps Benefit Kids?",
+        "text": "Describe the benefits of learning apps for kids. 📚",
+        "inputType": "text",
+        "correctAnswer": "they help kids improve their skills, learn new topics, and have fun while doing it"
+    },
+    {
+        "title": "Examples of Learning Apps",
+        "text": "Which of the following is an example of a learning app? 📱",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Math games", "isCorrect": true },
+            { "value": "Social media platforms", "isCorrect": false },
+            { "value": "Video streaming apps", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Learning through Gamified Apps",
+        "text": "How do gamified learning apps help children? 🎮",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "They make learning interactive and fun", "isCorrect": true },
+            { "value": "They provide traditional classroom learning", "isCorrect": false },
+            { "value": "They discourage engagement", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Learning App Features",
+        "text": "What features should a good learning app have? 📱",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Interactive lessons", "isCorrect": true },
+            { "value": "High complexity", "isCorrect": false },
+            { "value": "Lack of visual elements", "isCorrect": false }
+        ]
+    }
+]
