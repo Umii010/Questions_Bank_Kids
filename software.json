@@ -1,0 +1,42 @@
+[
+    {
+        "title": "What is Software?",
+        "text": "Can you define software? 🤔",
+        "inputType": "text",
+        "correctAnswer": "software is a set of instructions that tell a computer what to do"
+    },
+    {
+        "title": "Types of Software",
+        "text": "What are the two main types of software? 😊",
+        "inputType": "text",
+        "correctAnswer": "system software and application software"
+    },
+    {
+        "title": "What is System Software?",
+        "text": "Define system software and its role. 💻",
+        "inputType": "text",
+        "correctAnswer": "system software is responsible for managing and controlling computer hardware"
+    },
+    {
+        "title": "What is Application Software?",
+        "text": "Give an example of application software. 📱",
+        "inputType": "text",
+        "correctAnswer": "microsoft word"
+    },
+    {
+        "title": "What is Open-Source Software?",
+        "text": "What is open-source software? 💡",
+        "inputType": "text",
+        "correctAnswer": "open-source software is software that is made available with a license that allows users to view, modify, and distribute the source code"
+    },
+    {
+        "title": "Which of These is System Software?",
+        "text": "Which of these is system software? 🖥️",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Linux", "isCorrect": true },
+            { "value": "Google Chrome", "isCorrect": false },
+            { "value": "Microsoft Excel", "isCorrect": false }
+        ]
+    }
+]
