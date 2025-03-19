@@ -1,0 +1,44 @@
+[
+    {
+        "title": "AI Assistants",
+        "text": "Which AI assistant can help you with tasks? 🤖 Alexa 📱 Siri 🚗 Car",
+        "inputType": "text",
+        "correctAnswer": "alexa"
+    },
+    {
+        "title": "AI Conversations",
+        "text": "What is the best way to ask AI for help? 📢 Yell 📝 Type clearly 🤷‍♂️ Guess",
+        "inputType": "text",
+        "correctAnswer": "type clearly"
+    },
+    {
+        "title": "AI Chatbots",
+        "text": "Which chatbot is famous for helping users?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "ChatGPT", "isCorrect": true },
+            { "value": "Microwave", "isCorrect": false },
+            { "value": "Washing Machine", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "AI Understanding",
+        "text": "How do AI assistants understand what you say?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Natural Language Processing", "isCorrect": true },
+            { "value": "Magic", "isCorrect": false },
+            { "value": "Guessing", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "AI Requests",
+        "text": "How should you phrase a request to AI?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Use clear words", "isCorrect": true },
+            { "value": "Speak in riddles", "isCorrect": false },
+            { "value": "Provide details", "isCorrect": true }
+        ]
+    }
+]
