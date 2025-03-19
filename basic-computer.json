@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Using a Mouse",
+        "text": "What device is used to move the cursor on a computer screen?",
+        "inputType": "text",
+        "correctAnswer": "mouse"
+    },
+    {
+        "title": "Keyboard Functions",
+        "text": "Which key is used to erase text to the left of the cursor?",
+        "inputType": "text",
+        "correctAnswer": "backspace"
+    },
+    {
+        "title": "Basic Computer Parts",
+        "text": "Which part of the computer displays visual output?",
+        "inputType": "options",
+        "options": [
+            { "value": "Monitor", "isCorrect": true },
+            { "value": "Keyboard", "isCorrect": false },
+            { "value": "Mouse", "isCorrect": false },
+            { "value": "CPU", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Opening a Program",
+        "text": "What do you click to open an application on a computer?",
+        "inputType": "options",
+        "options": [
+            { "value": "Icon", "isCorrect": true },
+            { "value": "Keyboard", "isCorrect": false },
+            { "value": "Monitor", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Internet Browsing",
+        "text": "Which application is used to browse the internet?",
+        "inputType": "options",
+        "options": [
+            { "value": "Browser", "isCorrect": true },
+            { "value": "Notepad", "isCorrect": false },
+            { "value": "Calculator", "isCorrect": false }
+        ]
+    }
+]
