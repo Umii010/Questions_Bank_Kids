@@ -1,0 +1,40 @@
+[
+    {
+        "title": "AI in Chess",
+        "text": "Which AI defeated a world chess champion? 🤖♟️",
+        "inputType": "text",
+        "correctAnswer": "deep blue"
+    },
+    {
+        "title": "Smart NPCs",
+        "text": "What does AI control in video games? 🎮",
+        "inputType": "text",
+        "correctAnswer": "npcs"
+    },
+    {
+        "title": "Game AI Techniques",
+        "text": "Which AI technique is commonly used in game pathfinding?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "A* Algorithm", "isCorrect": true },
+            { "value": "Neural Networks", "isCorrect": false },
+            { "value": "Minimax", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "AI Opponents",
+        "text": "How does AI improve opponents in racing games?",
+        "inputType": "text",
+        "correctAnswer": "adaptive difficulty"
+    },
+    {
+        "title": "AI in Open World Games",
+        "text": "Which AI feature enhances realism in open-world games?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Procedural Generation", "isCorrect": true },
+            { "value": "Pre-scripted Movements", "isCorrect": false },
+            { "value": "Behavior Trees", "isCorrect": true }
+        ]
+    }
+]
