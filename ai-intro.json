@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Definition of AI",
+        "text": "What does AI stand for?",
+        "inputType": "text",
+        "correctAnswer": "artificial intelligence"
+    },
+    {
+        "title": "AI Examples",
+        "text": "Which of these is an AI-powered device? 🤖 📞 🚗",
+        "inputType": "text",
+        "correctAnswer": "robot"
+    },
+    {
+        "title": "AI Abilities",
+        "text": "What can AI do?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Recognize speech", "isCorrect": true },
+            { "value": "Cook food", "isCorrect": false },
+            { "value": "Translate languages", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "AI Learning",
+        "text": "How does AI learn?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "By magic", "isCorrect": false },
+            { "value": "By analyzing data", "isCorrect": true },
+            { "value": "By sleeping", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "AI in Daily Life",
+        "text": "Where do we use AI in daily life?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Virtual assistants like Siri", "isCorrect": true },
+            { "value": "Reading books", "isCorrect": false },
+            { "value": "Self-driving cars", "isCorrect": true }
+        ]
+    }
+]
