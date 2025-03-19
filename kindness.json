@@ -1,0 +1,44 @@
+[
+    {
+        "title": "How can you show kindness?",
+        "text": "Which action is kind? 😊 💖 🎁",
+        "inputType": "text",
+        "correctAnswer": "help"
+    },
+    {
+        "title": "Choose the Kind Action",
+        "text": "Which one is a kind thing to do? 🥰 🚫 🎭",
+        "inputType": "text",
+        "correctAnswer": "smile"
+    },
+    {
+        "title": "Kindness with Friends",
+        "text": "What should you do if your friend is feeling sad?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Give them a hug", "isCorrect": true },
+            { "value": "Ignore them", "isCorrect": false },
+            { "value": "Make fun of them", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Kindness at School",
+        "text": "How can you show kindness to your classmates?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Help them with their homework", "isCorrect": true },
+            { "value": "Take their things", "isCorrect": false },
+            { "value": "Make fun of their mistakes", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Kindness at Home",
+        "text": "What can you do to show kindness to your family?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Help with household chores", "isCorrect": true },
+            { "value": "Ignore them", "isCorrect": false },
+            { "value": "Take their things without asking", "isCorrect": false }
+        ]
+    }
+]
