@@ -1,0 +1,40 @@
+[
+    {
+        "title": "AI in Smartphones",
+        "text": "Which feature in your phone uses AI? 📱🎤📷",
+        "inputType": "text",
+        "correctAnswer": "voice assistant"
+    },
+    {
+        "title": "AI at Home",
+        "text": "Which AI-powered device can turn on lights? 💡🔊📺",
+        "inputType": "text",
+        "correctAnswer": "smart speaker"
+    },
+    {
+        "title": "AI in Healthcare",
+        "text": "Which AI-powered system helps doctors diagnose diseases?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "MRI Scan", "isCorrect": false },
+            { "value": "AI Diagnostic System", "isCorrect": true },
+            { "value": "Stethoscope", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "AI in Transportation",
+        "text": "Which AI technology helps self-driving cars?",
+        "inputType": "text",
+        "correctAnswer": "computer vision"
+    },
+    {
+        "title": "AI in Shopping",
+        "text": "Which AI feature recommends products based on your previous shopping?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Voice Search", "isCorrect": false },
+            { "value": "Personalized Recommendations", "isCorrect": true },
+            { "value": "Handwritten Notes", "isCorrect": false }
+        ]
+    }
+]
