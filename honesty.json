@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Why is Honesty Important?",
+        "text": "Why should we always tell the truth?",
+        "inputType": "text",
+        "correctAnswer": "to be trusted"
+    },
+    {
+        "title": "Choose the Honest Action",
+        "text": "Which action shows honesty? Returning lost money or keeping it?",
+        "inputType": "text",
+        "correctAnswer": "returning lost money"
+    },
+    {
+        "title": "Being Honest with Friends",
+        "text": "What should you do if you accidentally hurt a friend's feelings?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Apologize honestly", "isCorrect": true },
+            { "value": "Lie about it", "isCorrect": false },
+            { "value": "Ignore it", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Honesty in School",
+        "text": "What should you do if you see someone cheating on a test?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Report it honestly", "isCorrect": true },
+            { "value": "Join them", "isCorrect": false },
+            { "value": "Ignore it", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Honesty with Family",
+        "text": "Which action shows honesty with your parents?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Tell them the truth when asked", "isCorrect": true },
+            { "value": "Lie to avoid getting in trouble", "isCorrect": false },
+            { "value": "Hide your actions", "isCorrect": false }
+        ]
+    }
+]
