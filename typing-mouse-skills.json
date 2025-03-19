@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Find the Home Row Keys",
+        "text": "Which keys are in the home row? (Hint: ASDF...)",
+        "inputType": "text",
+        "correctAnswer": "asdf jkl;"
+    },
+    {
+        "title": "Which Button is Used to Click?",
+        "text": "What is the primary button used for clicking?",
+        "inputType": "text",
+        "correctAnswer": "left"
+    },
+    {
+        "title": "Mouse Actions",
+        "text": "Which action is performed by quickly pressing the left mouse button twice?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Right-click", "isCorrect": false },
+            { "value": "Double-click", "isCorrect": true },
+            { "value": "Drag", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Typing Speed",
+        "text": "Which finger should be used to press the space bar while typing?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Thumb", "isCorrect": true },
+            { "value": "Index Finger", "isCorrect": false },
+            { "value": "Pinky Finger", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Keyboard Shortcuts",
+        "text": "Which shortcut is used to copy text?",
+        "inputType": "text",
+        "correctAnswer": "ctrl + c"
+    }
+]
