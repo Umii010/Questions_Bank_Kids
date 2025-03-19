@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Helping Others",
+        "text": "What is one way you can help your neighbors? 🏡 🤝 🛠️",
+        "inputType": "text",
+        "correctAnswer": "help"
+    },
+    {
+        "title": "Respecting Rules",
+        "text": "Why should we follow traffic rules? 🚦 🚗 🛑",
+        "inputType": "text",
+        "correctAnswer": "safety"
+    },
+    {
+        "title": "Community Volunteer",
+        "text": "Which activity helps in keeping the community clean? 🧹",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Littering", "isCorrect": false },
+            { "value": "Clean-up drive", "isCorrect": true },
+            { "value": "Pollution", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Respecting Diversity",
+        "text": "Why should we respect people from different cultures? 🌍",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Because they are different", "isCorrect": false },
+            { "value": "To make the world a better place", "isCorrect": true },
+            { "value": "Because it’s hard to understand them", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Helping the Environment",
+        "text": "What can you do to help save the environment? 🌱",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Use plastic bags", "isCorrect": false },
+            { "value": "Plant trees", "isCorrect": true },
+            { "value": "Waste water", "isCorrect": false }
+        ]
+    }
+]
