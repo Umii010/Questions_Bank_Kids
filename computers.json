@@ -1,0 +1,40 @@
+[
+    {
+        "title": "What is a Computer?",
+        "text": "A computer is an electronic device that ______ data.",
+        "inputType": "text",
+        "correctAnswer": "processes"
+    },
+    {
+        "title": "Main Parts of a Computer",
+        "text": "Which of these is NOT a part of a computer? 🖥️ ⌨️ 🚗",
+        "inputType": "text",
+        "correctAnswer": "car"
+    },
+    {
+        "title": "Computer Inventor",
+        "text": "Who is known as the father of computers?",
+        "inputType": "text",
+        "correctAnswer": "charles babbage"
+    },
+    {
+        "title": "Computer Memory",
+        "text": "Which part of the computer is responsible for storing data?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "RAM", "isCorrect": true },
+            { "value": "Monitor", "isCorrect": false },
+            { "value": "Keyboard", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Input and Output Devices",
+        "text": "Which of these is an input device?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Mouse", "isCorrect": true },
+            { "value": "Printer", "isCorrect": false },
+            { "value": "Speaker", "isCorrect": false }
+        ]
+    }
+]
