@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Using the Paint Bucket",
+        "text": "Which tool is used to fill an area with color? 🎨🖌️",
+        "inputType": "text",
+        "correctAnswer": "paint bucket"
+    },
+    {
+        "title": "Eraser Tool",
+        "text": "What tool is used to remove mistakes in a paint program? ❌🖍️",
+        "inputType": "text",
+        "correctAnswer": "eraser"
+    },
+    {
+        "title": "Primary Colors",
+        "text": "Which of these is a primary color? 🎨",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Red", "isCorrect": true },
+            { "value": "Green", "isCorrect": false },
+            { "value": "Purple", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "Shapes Tool",
+        "text": "Which tool helps to draw a perfect circle or rectangle? ⭕⬛",
+        "inputType": "text",
+        "correctAnswer": "shape tool"
+    },
+    {
+        "title": "Mixing Colors",
+        "text": "What color do you get when you mix blue and yellow? 🔵🟡",
+        "inputType": "text",
+        "correctAnswer": "green"
+    }
+]
