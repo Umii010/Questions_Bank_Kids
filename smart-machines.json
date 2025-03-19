@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Which is a Smart Machine?",
+        "text": "Which of these machines can learn and make decisions? 🤖 🚗 🖨️",
+        "inputType": "text",
+        "correctAnswer": "robot"
+    },
+    {
+        "title": "Smart or Not?",
+        "text": "Which one uses AI? 📱 🖥️ 🤖",
+        "inputType": "text",
+        "correctAnswer": "robot"
+    },
+    {
+        "title": "Self-Driving Cars",
+        "text": "What AI technology allows self-driving cars to detect obstacles?",
+        "inputType": "multiple-choice",
+        "options": [
+            { "value": "Computer Vision", "isCorrect": true },
+            { "value": "Blockchain", "isCorrect": false },
+            { "value": "Cloud Computing", "isCorrect": false }
+        ]
+    },
+    {
+        "title": "AI in Everyday Life",
+        "text": "Which household devices use AI?",
+        "inputType": "checkbox",
+        "options": [
+            { "value": "Smart Speaker", "isCorrect": true },
+            { "value": "Microwave", "isCorrect": false },
+            { "value": "Smart Thermostat", "isCorrect": true }
+        ]
+    },
+    {
+        "title": "AI Assistants",
+        "text": "Which virtual assistant is AI-powered?",
+        "inputType": "text",
+        "correctAnswer": "siri"
+    }
+]
