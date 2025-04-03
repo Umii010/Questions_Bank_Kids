@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "Neighborhood Places",
+      "description": "Learn about important places in your neighborhood like parks and libraries.",
+      "link": "/Environmental/Neighborhood",
+      "buttonText": "Explore Neighborhood"
+    },
+    {
+      "title": "Safety Rules",
+      "description": "Important safety rules for home, school, and public places.",
+      "link": "/Environmental/SafetyRules",
+      "buttonText": "Learn Safety"
+    },
+    {
+      "title": "Weather & Seasons",
+      "description": "Understanding different weather patterns and seasons.",
+      "link": "/Environmental/WeatherSeasons",
+      "buttonText": "Learn About Weather"
+    },
+    {
+      "title": "Maps & Directions",
+      "description": "Basic introduction to maps and simple directions.",
+      "link": "/Environmental/MapsDirections",
+      "buttonText": "Start Exploring"
+    },
+    {
+      "title": "Cultural Diversity",
+      "description": "Appreciating different cultures and traditions around the world.",
+      "link": "/Environmental/CulturalDiversity",
+      "buttonText": "Learn About Cultures"
+    },
+    {
+      "title": "Environmental Care",
+      "description": "Simple ways to take care of our environment and nature.",
+      "link": "/Environmental/Care",
+      "buttonText": "Help Environment"
+    }
+  ]
+}
