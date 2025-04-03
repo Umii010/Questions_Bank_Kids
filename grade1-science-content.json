@@ -1,0 +1,54 @@
+{
+  "topics": [
+    {
+      "title": "Living & Non-Living Things",
+      "description": "Learn what makes something alive and what doesn't.",
+      "link": "/Science/LivingNonLiving"
+    },
+    {
+      "title": "The Five Senses",
+      "description": "See, hear, smell, taste, and touch—discover the senses!",
+      "link": "/Science/FiveSenses"
+    },
+    {
+      "title": "Weather & Seasons",
+      "description": "Explore sunny, rainy, windy, and snowy days!",
+      "link": "/Science/WeatherScience"
+    },
+    {
+      "title": "Animals & Their Habitats",
+      "description": "Where do animals live? Learn about forests, oceans, and more!",
+      "link": "/Science/AnimalHabits"
+    },
+    {
+      "title": "Plants & Growth",
+      "description": "Discover how plants grow from tiny seeds!",
+      "link": "/Science/PlantsGrow"
+    },
+    {
+      "title": "The Solar System",
+      "description": "Learn about the Sun, Moon, and planets!",
+      "link": "/Science/SolarSystem"
+    },
+    {
+      "title": "Simple Science Experiments",
+      "description": "Try fun and easy science experiments at home!",
+      "link": "/Science/ScienceExperiment"
+    },
+    {
+      "title": "States of Matter",
+      "description": "Learn about solids, liquids, and gases!",
+      "link": "/Science/StatesOfMatter"
+    },
+    {
+      "title": "Magnets & Forces",
+      "description": "Discover how magnets work and what they attract!",
+      "link": "/Science/Magnets"
+    },
+    {
+      "title": "Light & Shadows",
+      "description": "Explore how light creates shadows!",
+      "link": "/Science/LightShadows"
+    }
+  ]
+}
