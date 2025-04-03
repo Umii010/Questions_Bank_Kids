@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "title": "AI and Animals",
+      "description": "How AI helps us understand and protect animals!",
+      "link": "/AI/Animals"
+    },
+    {
+      "title": "AI Storytelling",
+      "description": "Create fun stories with the help of artificial intelligence!",
+      "link": "/AI/Storytelling"
+    },
+    {
+      "title": "AI in Space",
+      "description": "Discover how AI helps astronauts and explores space!",
+      "link": "/AI/Space"
+    },
+    {
+      "title": "AI and Weather",
+      "description": "How AI predicts weather and keeps us safe!",
+      "link": "/AI/Weather"
+    },
+    {
+      "title": "AI in Cars",
+      "description": "Learn about self-driving cars and smart vehicles!",
+      "link": "/AI/Cars"
+    },
+    {
+      "title": "AI and Health",
+      "description": "How AI helps doctors and keeps people healthy!",
+      "link": "/AI/Health"
+    }
+  ]
+}
