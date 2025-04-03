@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "title": "Variables for Kids",
+      "description": "Learn how to store information using variables in simple terms!",
+      "link": "/Coding/Variables"
+    },
+    {
+      "title": "Robot Programming",
+      "description": "Give commands to virtual robots and watch them move!",
+      "link": "/Coding/Robots"
+    },
+    {
+      "title": "Storytelling with Code",
+      "description": "Create interactive stories using basic programming concepts!",
+      "link": "/Coding/Stories"
+    },
+    {
+      "title": "Math with Code",
+      "description": "Solve simple math problems using programming!",
+      "link": "/Coding/Math"
+    },
+    {
+      "title": "Animation Basics",
+      "description": "Make simple animations using coding blocks!",
+      "link": "/Coding/Animation"
+    },
+    {
+      "title": "Game Design Basics",
+      "description": "Learn the fundamentals of creating simple games!",
+      "link": "/Coding/GameDesign"
+    }
+  ]
+}
