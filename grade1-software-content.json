@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "App Safety for Kids",
+      "description": "Learn how to use apps safely and responsibly!",
+      "link": "/Software/Safety",
+      "buttonText": "Learn Safety"
+    },
+    {
+      "title": "Music Creation Apps",
+      "description": "Explore apps that let you create your own music!",
+      "link": "/Software/MusicApps",
+      "buttonText": "Make Music"
+    },
+    {
+      "title": "Storytelling Apps",
+      "description": "Create digital stories with fun interactive apps!",
+      "link": "/Software/StoryApps",
+      "buttonText": "Tell Stories"
+    },
+    {
+      "title": "Photo Editing Basics",
+      "description": "Learn simple photo editing with kid-friendly apps!",
+      "link": "/Software/PhotoEditing",
+      "buttonText": "Edit Photos"
+    },
+    {
+      "title": "Coding Apps for Kids",
+      "description": "Start learning programming with fun visual apps!",
+      "link": "/Software/CodingApps",
+      "buttonText": "Start Coding"
+    },
+    {
+      "title": "Virtual Field Trips",
+      "description": "Explore the world through educational apps!",
+      "link": "/Software/VirtualTrips",
+      "buttonText": "Explore Now"
+    }
+  ]
+}
