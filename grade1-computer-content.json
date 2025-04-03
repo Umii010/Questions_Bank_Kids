@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "title": "Computer Games",
+      "description": "Fun educational games to practice computer skills.",
+      "link": "/Computer/Games"
+    },
+    {
+      "title": "Word Processing Basics",
+      "description": "Learn to type and format simple documents.",
+      "link": "/Computer/WordProcessing"
+    },
+    {
+      "title": "Computer Parts Memory Game",
+      "description": "Match computer parts with their names in this fun game.",
+      "link": "/Computer/MemoryGame"
+    },
+    {
+      "title": "Digital Art",
+      "description": "Create beautiful art using computer drawing tools.",
+      "link": "/Computer/DigitalArt"
+    },
+    {
+      "title": "Safe Internet Browsing",
+      "description": "Learn how to stay safe while using the internet.",
+      "link": "/Computer/SafeBrowsing"
+    },
+    {
+      "title": "Computer History",
+      "description": "Discover how computers have changed over time.",
+      "link": "/Computer/History"
+    }
+  ]
+}
