@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "اردو قواعد",
+      "description": "اردو زبان کی بنیادی قواعد سیکھیں۔",
+      "link": "/Urdu/Qawaid",
+      "buttonText": "قواعد سیکھیں"
+    },
+    {
+      "title": "مشہور کہانیاں",
+      "description": "اردو کی مشہور اور دلچسپ کہانیاں پڑھیں۔",
+      "link": "/Urdu/MashoorKahaniyan",
+      "buttonText": "کہانیاں پڑھیں"
+    },
+    {
+      "title": "اردو محاورے",
+      "description": "عام استعمال ہونے والے اردو محاورے سیکھیں۔",
+      "link": "/Urdu/Muhawray",
+      "buttonText": "محاورے سیکھیں"
+    },
+    {
+      "title": "پھلوں اور سبزیوں کے نام",
+      "description": "مختلف پھلوں اور سبزیوں کے اردو نام یاد کریں۔",
+      "link": "/Urdu/PhalSabzi",
+      "buttonText": "نام سیکھیں"
+    },
+    {
+      "title": "اردو گنتی 50 سے 100",
+      "description": "50 سے 100 تک اردو میں گنتی سیکھیں۔",
+      "link": "/Urdu/Ginti",
+      "buttonText": "گنتی سیکھیں"
+    },
+    {
+      "title": "اردو خاندان کے نام",
+      "description": "خاندان کے مختلف افراد کے اردو نام سیکھیں۔",
+      "link": "/Urdu/Khandan",
+      "buttonText": "نام سیکھیں"
+    }
+  ]
+}
