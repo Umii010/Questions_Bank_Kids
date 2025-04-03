@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "title": "Number Bonds",
+      "description": "Learn how numbers can be split into parts and combined.",
+      "link": "/Math/NumberBonds"
+    },
+    {
+      "title": "Money & Coins",
+      "description": "Identify coins and learn their values.",
+      "link": "/Math/MoneyCoins"
+    },
+    {
+      "title": "Fractions Basics",
+      "description": "Introduction to halves and quarters.",
+      "link": "/Math/Fractions"
+    },
+    {
+      "title": "Graphing",
+      "description": "Learn to read simple bar graphs and pictographs.",
+      "link": "/Math/Graphing"
+    },
+    {
+      "title": "Word Problems",
+      "description": "Solve simple math problems with fun stories.",
+      "link": "/Math/WordProblems"
+    },
+    {
+      "title": "Math Games",
+      "description": "Play interactive games to practice math skills.",
+      "link": "/Math/Games"
+    }
+  ]
+}
