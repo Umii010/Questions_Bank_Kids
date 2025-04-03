@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "Patience",
+      "description": "Learning to wait calmly helps us in many situations!",
+      "link": "/Moral/Patience",
+      "buttonText": "Learn Patience"
+    },
+    {
+      "title": "Forgiveness",
+      "description": "Understanding how to forgive makes friendships stronger!",
+      "link": "/Moral/Forgiveness",
+      "buttonText": "Learn Forgiveness"
+    },
+    {
+      "title": "Good Manners",
+      "description": "Simple manners like 'please' and 'excuse me' make everyone happy!",
+      "link": "/Moral/Manners",
+      "buttonText": "Practice Manners"
+    },
+    {
+      "title": "Teamwork",
+      "description": "Working together helps us achieve more than we can alone!",
+      "link": "/Moral/Teamwork",
+      "buttonText": "Learn Teamwork"
+    },
+    {
+      "title": "Perseverance",
+      "description": "Never giving up helps us learn new things and solve problems!",
+      "link": "/Moral/Perseverance",
+      "buttonText": "Keep Trying"
+    },
+    {
+      "title": "Gratitude",
+      "description": "Being thankful for what we have makes us happier people!",
+      "link": "/Moral/Gratitude",
+      "buttonText": "Practice Gratitude"
+    }
+  ]
+}
