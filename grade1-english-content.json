@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "title": "Punctuation Basics",
+      "description": "Learn about periods, question marks, and exclamation points.",
+      "link": "/English/Punctuation"
+    },
+    {
+      "title": "Adjectives & Descriptions",
+      "description": "Learn words that describe people, places, and things.",
+      "link": "/English/Adjectives"
+    },
+    {
+      "title": "Simple Sentences",
+      "description": "Practice building and writing complete sentences.",
+      "link": "/English/Sentences"
+    },
+    {
+      "title": "Story Sequencing",
+      "description": "Learn to put story events in the right order.",
+      "link": "/English/Sequencing"
+    },
+    {
+      "title": "Vocabulary Building",
+      "description": "Expand your word knowledge with fun activities.",
+      "link": "/English/Vocabulary"
+    },
+    {
+      "title": "Reading Comprehension",
+      "description": "Practice understanding what you read.",
+      "link": "/English/Comprehension"
+    }
+  ]
+}
