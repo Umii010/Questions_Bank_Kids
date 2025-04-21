@@ -1,40 +1,2918 @@
 [
-    {
-        "title": "AI in Smartphones",
-        "text": "Which feature in your phone uses AI? 📱🎤📷",
-        "inputType": "text",
-        "correctAnswer": "voice assistant"
-    },
-    {
-        "title": "AI at Home",
-        "text": "Which AI-powered device can turn on lights? 💡🔊📺",
-        "inputType": "text",
-        "correctAnswer": "smart speaker"
-    },
-    {
-        "title": "AI in Healthcare",
-        "text": "Which AI-powered system helps doctors diagnose diseases?",
-        "inputType": "multiple-choice",
-        "options": [
-            { "value": "MRI Scan", "isCorrect": false },
-            { "value": "AI Diagnostic System", "isCorrect": true },
-            { "value": "Stethoscope", "isCorrect": false }
-        ]
-    },
-    {
-        "title": "AI in Transportation",
-        "text": "Which AI technology helps self-driving cars?",
-        "inputType": "text",
-        "correctAnswer": "computer vision"
-    },
-    {
-        "title": "AI in Shopping",
-        "text": "Which AI feature recommends products based on your previous shopping?",
-        "inputType": "checkbox",
-        "options": [
-            { "value": "Voice Search", "isCorrect": false },
-            { "value": "Personalized Recommendations", "isCorrect": true },
-            { "value": "Handwritten Notes", "isCorrect": false }
-        ]
-    }
+  {
+    "title": "AI in Smartphones",
+    "text": "Which feature in your phone uses AI? \ud83d\udcf1\ud83c\udfa4\ud83d\udcf7",
+    "inputType": "text",
+    "correctAnswer": "voice assistant"
+  },
+  {
+    "title": "AI at Home",
+    "text": "Which AI-powered device can turn on lights? \ud83d\udca1\ud83d\udd0a\ud83d\udcfa",
+    "inputType": "text",
+    "correctAnswer": "smart speaker"
+  },
+  {
+    "title": "AI in Healthcare",
+    "text": "Which AI-powered system helps doctors diagnose diseases?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "MRI Scan",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Diagnostic System",
+        "isCorrect": true
+      },
+      {
+        "value": "Stethoscope",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Transportation",
+    "text": "Which AI technology helps self-driving cars?",
+    "inputType": "text",
+    "correctAnswer": "computer vision"
+  },
+  {
+    "title": "AI in Shopping",
+    "text": "Which AI feature recommends products based on your previous shopping?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Voice Search",
+        "isCorrect": false
+      },
+      {
+        "value": "Personalized Recommendations",
+        "isCorrect": true
+      },
+      {
+        "value": "Handwritten Notes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Social Media",
+    "text": "What helps suggest friends on social platforms?",
+    "inputType": "text",
+    "correctAnswer": "recommendation system"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI helps students learn math?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "AI Math Tutor",
+        "isCorrect": true
+      },
+      {
+        "value": "Manual Calculator",
+        "isCorrect": false
+      },
+      {
+        "value": "Blackboard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Navigation",
+    "text": "Which AI feature helps find the best route?",
+    "inputType": "text",
+    "correctAnswer": "route optimization"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Finance",
+    "text": "Which AI tool detects unusual bank transactions?",
+    "inputType": "text",
+    "correctAnswer": "fraud detection"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Robotics",
+    "text": "Which AI branch helps robots understand speech?",
+    "inputType": "text",
+    "correctAnswer": "natural language processing"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Marketing",
+    "text": "What tools use AI to improve ad targeting?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "AI Ad Predictor",
+        "isCorrect": true
+      },
+      {
+        "value": "Billboard",
+        "isCorrect": false
+      },
+      {
+        "value": "Newspaper Ads",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Education",
+    "text": "Which AI feature helps grade essays?",
+    "inputType": "text",
+    "correctAnswer": "automated grading"
+  },
+  {
+    "title": "AI in Music",
+    "text": "Which AI tool creates new music tracks?",
+    "inputType": "multiple-choice",
+    "options": [
+      {
+        "value": "Radio",
+        "isCorrect": false
+      },
+      {
+        "value": "AI Composer",
+        "isCorrect": true
+      },
+      {
+        "value": "Cassette Player",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "title": "AI in Sports",
+    "text": "Which AI tools help analyze player performance?",
+    "inputType": "checkbox",
+    "options": [
+      {
+        "value": "Game Commentary",
+        "isCorrect": false
+      },
+      {
+        "value": "Performance Tracking AI",
+        "isCorrect": true
+      },
+      {
+        "value": "Printed Reports",
+        "isCorrect": false
+      }
+    ]
+  }
 ]
